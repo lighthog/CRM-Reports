@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "CRM_Reports", "Report ProjectCustomerPortal\CRM_Reports.rptproj", "{293BF18D-A505-4B9C-BE07-ED237553AB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{293BF18D-A505-4B9C-BE07-ED237553AB69}.Debug|Default.ActiveCfg = Debug
+		{293BF18D-A505-4B9C-BE07-ED237553AB69}.Debug|Default.Build.0 = DebugLocal
+		{293BF18D-A505-4B9C-BE07-ED237553AB69}.Debug|Default.Deploy.0 = DebugLocal
+		{293BF18D-A505-4B9C-BE07-ED237553AB69}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{293BF18D-A505-4B9C-BE07-ED237553AB69}.DebugLocal|Default.Build.0 = DebugLocal
+		{293BF18D-A505-4B9C-BE07-ED237553AB69}.Release|Default.ActiveCfg = Release
+		{293BF18D-A505-4B9C-BE07-ED237553AB69}.Release|Default.Build.0 = Release
+		{293BF18D-A505-4B9C-BE07-ED237553AB69}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
